@@ -1,4 +1,4 @@
-# IV. Transitions & Escapes
+# Transitions & Escapes
 
 Movements used to escape disadvantageous positions or transition between different positions. These techniques are essential for both defensive and offensive game development.
 

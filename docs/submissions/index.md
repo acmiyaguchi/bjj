@@ -1,4 +1,4 @@
-# II. Submissions
+# Submissions
 
 Submissions are techniques intended to finish the opponent by forcing them to tap out. They are categorized by the mechanism of attack.
 

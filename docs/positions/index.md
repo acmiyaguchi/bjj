@@ -1,4 +1,4 @@
-# I. Positional Hierarchy
+# Positional Hierarchy
 
 This represents the context for applying other techniques. Understanding positional hierarchy is crucial as it determines what techniques are available and their likelihood of success.
 

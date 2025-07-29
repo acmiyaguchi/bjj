@@ -1,4 +1,4 @@
-# III. Sweeps & Reversals
+# Sweeps & Reversals
 
 Sweeps and reversals are techniques initiated primarily from the guard position to reverse the positional hierarchy and gain a dominant position.
 
