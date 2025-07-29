@@ -1,21 +1,18 @@
 site_name: Anthony's BJJ Notes
 theme:
   name: readthedocs
-nav:
-  - Home: index.md
-  - Resources:
-      - Print Site: /print_page
 plugins:
   - search
-  - pagetree  
+  - literate-nav:
+      nav_file: SUMMARY.md
+  - pagetree
   - ultralytics:
-        add_share_buttons: false
-        add_json_ld: true
+      add_share_buttons: false
+      add_json_ld: true
   - print-site:
       add_table_of_contents: false
-      # add_to_navigation: true
       add_cover_page: true
       add_print_site_banner: true
 markdown_extensions:
-    - attr_list
-    - admonition
+  - attr_list
+  - admonition

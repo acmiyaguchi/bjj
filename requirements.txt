@@ -54,11 +54,14 @@ mergedeep==1.3.4
 mkdocs==1.6.1
     # via
     #   bjj-notes (pyproject.toml)
+    #   mkdocs-literate-nav
     #   mkdocs-material
     #   mkdocs-pagetree-plugin
     #   mkdocs-ultralytics-plugin
 mkdocs-get-deps==0.2.0
     # via mkdocs
+mkdocs-literate-nav==0.6.2
+    # via bjj-notes (pyproject.toml)
 mkdocs-material==9.6.16
     # via mkdocs-print-site-plugin
 mkdocs-material-extensions==1.3.1
