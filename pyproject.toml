@@ -1,0 +1,13 @@
+[project]
+name = "bjj-notes"
+version = "0.1.0"
+description = "My BJJ notes"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "linkcheckmd>=1.4.0",
+    "mkdocs>=1.6.1",
+    "mkdocs-pagetree-plugin>=0.0.17",
+    "mkdocs-print-site-plugin>=2.7.3",
+    "mkdocs-ultralytics-plugin>=0.1.25",
+]
