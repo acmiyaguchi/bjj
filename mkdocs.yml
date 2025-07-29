@@ -1,4 +1,6 @@
 site_name: Anthony's BJJ Notes
+# for sitemap
+site_url: https://bjj.acmiyaguchi.me
 theme:
   name: readthedocs
 plugins:

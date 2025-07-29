@@ -24,16 +24,16 @@ In closed guard, the person on bottom (guard player) has their back on the groun
 
 ### Submissions
 
-- [Triangle Choke](../submissions/chokes/triangle.md)
-- [Armbar](../submissions/joint-locks/armbar.md)
-- [Cross Collar Choke](../submissions/chokes/cross-collar.md)
-- [Kimura](../submissions/joint-locks/kimura.md)
+- [Triangle Choke](../../submissions/chokes/triangle.md)
+- [Armbar](../../submissions/joint-locks/armbar.md)
+- [Cross Collar Choke](../../submissions/chokes/cross-collar.md)
+- [Kimura](../../submissions/joint-locks/kimura.md)
 
 ### Sweeps
 
-- [Hip Bump Sweep](../sweeps/closed-guard/hip-bump.md)
-- [Scissor Sweep](../sweeps/closed-guard/scissor.md)
-- [Flower Sweep](../sweeps/closed-guard/flower.md)
+- [Hip Bump Sweep](../../sweeps/closed-guard/hip-bump.md)
+- [Scissor Sweep](../../sweeps/closed-guard/scissor.md)
+- [Flower Sweep](../../sweeps/closed-guard/flower.md)
 
 ## Guard Opening Defense
 

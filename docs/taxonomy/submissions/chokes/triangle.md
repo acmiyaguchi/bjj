@@ -80,6 +80,6 @@ The triangle choke works by:
 
 ## Related Techniques
 
-- [Armbar](armbar.md) - Common transition
+- [Armbar](../joint-locks/armbar.md) - Common transition
 - [Omoplata](../joint-locks/omoplata.md) - Alternative finish
 - [Hip Bump Sweep](../../sweeps/closed-guard/hip-bump.md) - Setup option
